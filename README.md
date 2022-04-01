@@ -7,7 +7,7 @@
   Bom, mas sem delongas, vamos ao tour do meu mundo <br>
   
   <h1> Welcome to Nowhere </h1>
-  <img src="https://media.giphy.com/media/l0HUlMacNDTVMhCwg/giphy.gif" width="400vh" align="right" />
+  <img src="https://media.giphy.com/media/3o7TKHdgwiQo7sduNO/giphy.gif" width="400vh" align="right" />
 </div>
 
   <div>
