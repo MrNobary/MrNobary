@@ -6,7 +6,7 @@
   <span> Prazer, meu nome verdadeiro é <strong><i>Enzo Machado</i></strong> <br> Esse perfil pertence a um novo <strong>desenvolvedor Front-end</strong> e atual <strong>estudante de Back-end</strong> <br>
   Bom, mas sem delongas, vamos ao tour do meu mundo <br>
   
-  <h1> Welcome to Nowhere </h1>
+  ![Header](./github-header-image.png)
   <img src="https://media.giphy.com/media/3o7TKHdgwiQo7sduNO/giphy.gif" width="400vh" align="right" />
 </div>
 
