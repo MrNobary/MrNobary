@@ -7,7 +7,6 @@
   Bom, mas sem delongas, vamos ao tour do meu mundo <br>
   
   <h1>WELCOME TO NOWHERE</h1>
-  <img src="https://media.giphy.com/media/3o7TKHdgwiQo7sduNO/giphy.gif" width="400vh" align="right" />
 </div>
 
   <div>
